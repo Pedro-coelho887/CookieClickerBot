@@ -1,2 +1,4 @@
-Projeto do treinamento de dados que cria um bot para jogaro jogo cookie clicker!
+Projeto do treinamento de dados que cria um bot para jogar cookie clicker!
 O bot consegue comprar upgrades e construções, além de mudar o nome da padaria e clickar no cookie(óbvio).
+Utiliza Selenium, GoogleChromedriver, pyatugui e outras bibliotecas auxiliares para abrir e fechar o navegador,
+além de interagir com a página da web.
